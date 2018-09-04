@@ -1,0 +1,5 @@
+D:\SCU1415\SwDev5te\MultiTasking\SocketProg\Basics\bin\Debug\CliServ3.exe
+D:\SCU1415\SwDev5te\MultiTasking\SocketProg\Basics\bin\Debug\CliServ3.pdb
+D:\SCU1415\SwDev5te\MultiTasking\SocketProg\Basics\obj\Debug\ResolveAssemblyReference.cache
+D:\SCU1415\SwDev5te\MultiTasking\SocketProg\Basics\obj\Debug\CliServ3.exe
+D:\SCU1415\SwDev5te\MultiTasking\SocketProg\Basics\obj\Debug\CliServ3.pdb

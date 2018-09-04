@@ -1,0 +1,5 @@
+D:\SCU1516\SwDev5te\PointerCS\bin\Debug\PointerCS.exe
+D:\SCU1516\SwDev5te\PointerCS\bin\Debug\PointerCS.pdb
+D:\SCU1516\SwDev5te\PointerCS\obj\x86\Debug\PointerCS.exe
+D:\SCU1516\SwDev5te\PointerCS\obj\x86\Debug\PointerCS.pdb
+D:\SCU1516\SwDev5te\PointerCS\obj\x86\Debug\PointerCS.csprojResolveAssemblyReference.cache

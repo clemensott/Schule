@@ -1,0 +1,8 @@
+bin\Debug\vis1.exe
+bin\Debug\vis1.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\vis1.Form1.resources
+obj\Debug\vis1.Properties.Resources.resources
+obj\Debug\vis1.csproj.GenerateResource.Cache
+obj\Debug\vis1.exe
+obj\Debug\vis1.pdb

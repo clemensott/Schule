@@ -1,0 +1,12 @@
+bin\Debug\NxtVis.exe
+bin\Debug\NxtVis.pdb
+bin\Debug\ZedGraph.dll
+bin\Debug\ZedHL.dll
+bin\Debug\ZedHL.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\vis1.NxtVisForm.resources
+obj\Debug\vis1.Properties.Resources.resources
+obj\Debug\NxtVis.csproj.GenerateResource.Cache
+obj\Debug\NxtVis.exe
+obj\Debug\NxtVis.pdb
+bin\Debug\ZedHL.xml

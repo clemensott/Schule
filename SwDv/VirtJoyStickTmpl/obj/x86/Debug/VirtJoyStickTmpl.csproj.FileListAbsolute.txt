@@ -1,0 +1,23 @@
+D:\MBed\C#2\VirtJoyStickTmpl\obj\x86\Debug\VirtJoyStick.exe
+D:\MBed\C#2\VirtJoyStickTmpl\obj\x86\Debug\VirtJoyStick.pdb
+D:\MBed\C#2\VirtJoyStickTmpl\bin\Debug\VirtJoyStick.exe
+D:\MBed\C#2\VirtJoyStickTmpl\bin\Debug\VirtJoyStick.pdb
+D:\MBed\C#2\VirtJoyStickTmpl\bin\Debug\StickControl.dll
+D:\MBed\C#2\VirtJoyStickTmpl\bin\Debug\StickControl.pdb
+D:\MBed\C#2\VirtJoyStickTmpl\obj\x86\Debug\VirtJoyStickTmpl.csprojResolveAssemblyReference.cache
+D:\MBed\C#2\VirtJoyStickTmpl\obj\x86\Debug\VirtJoyStick.Form1.resources
+D:\MBed\C#2\VirtJoyStickTmpl\obj\x86\Debug\VirtJoyStick.Properties.Resources.resources
+D:\MBed\C#2\VirtJoyStickTmpl\obj\x86\Debug\VirtJoyStickTmpl.csproj.GenerateResource.Cache
+C:\Users\Clemens\Documents\Visual Studio 2015\Projects\Schule\SwDv\VirtJoyStickTmpl\obj\x86\Debug\VirtJoyStick.exe
+C:\Users\Clemens\Documents\Visual Studio 2015\Projects\Schule\SwDv\VirtJoyStickTmpl\obj\x86\Debug\VirtJoyStick.pdb
+C:\Users\Clemens\Documents\Visual Studio 2015\Projects\Schule\SwDv\VirtJoyStickTmpl\obj\x86\Debug\VirtJoyStickTmpl.csprojResolveAssemblyReference.cache
+C:\Users\Clemens\Documents\Visual Studio 2015\Projects\Schule\SwDv\VirtJoyStickTmpl\obj\x86\Debug\VirtJoyStick.Form1.resources
+C:\Users\Clemens\Documents\Visual Studio 2015\Projects\Schule\SwDv\VirtJoyStickTmpl\obj\x86\Debug\VirtJoyStick.Properties.Resources.resources
+C:\Users\Clemens\Documents\Visual Studio 2015\Projects\Schule\SwDv\VirtJoyStickTmpl\obj\x86\Debug\VirtJoyStickTmpl.csproj.GenerateResource.Cache
+C:\Users\Clemens\Documents\Visual Studio 2015\Projects\Schule\SwDv\VirtJoyStickTmpl\bin\Debug\VirtJoyStick.exe.config
+C:\Users\Clemens\Documents\Visual Studio 2015\Projects\Schule\SwDv\VirtJoyStickTmpl\bin\Debug\VirtJoyStick.exe
+C:\Users\Clemens\Documents\Visual Studio 2015\Projects\Schule\SwDv\VirtJoyStickTmpl\bin\Debug\VirtJoyStick.pdb
+C:\Users\Clemens\Documents\Visual Studio 2015\Projects\Schule\SwDv\VirtJoyStickTmpl\bin\Debug\BertlControlLib.dll
+C:\Users\Clemens\Documents\Visual Studio 2015\Projects\Schule\SwDv\VirtJoyStickTmpl\bin\Debug\SharpDX.XInput.dll
+C:\Users\Clemens\Documents\Visual Studio 2015\Projects\Schule\SwDv\VirtJoyStickTmpl\bin\Debug\SharpDX.dll
+C:\Users\Clemens\Documents\Visual Studio 2015\Projects\Schule\SwDv\VirtJoyStickTmpl\bin\Debug\StickControl.pdb

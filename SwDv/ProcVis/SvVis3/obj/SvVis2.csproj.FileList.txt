@@ -1,0 +1,11 @@
+bin\Debug\SvVis2.exe
+bin\Debug\SvVis2.pdb
+bin\Debug\ZedHL.dll
+bin\Debug\ZedGraph.dll
+bin\Debug\ZedHL.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\vis1.VisForm2.resources
+obj\Debug\vis1.Properties.Resources.resources
+obj\Debug\SvVis2.csproj.GenerateResource.Cache
+obj\Debug\SvVis2.exe
+obj\Debug\SvVis2.pdb

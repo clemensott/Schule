@@ -1,0 +1,5 @@
+C:\Users\Marcel\Desktop\SD\DataStruct\LL_CS_Lösung\bin\Debug\LL_CS.exe
+C:\Users\Marcel\Desktop\SD\DataStruct\LL_CS_Lösung\bin\Debug\LL_CS.pdb
+C:\Users\Marcel\Desktop\SD\DataStruct\LL_CS_Lösung\obj\Debug\LL_CS.exe
+C:\Users\Marcel\Desktop\SD\DataStruct\LL_CS_Lösung\obj\Debug\LL_CS.pdb
+C:\Users\Marcel\Desktop\SD\DataStruct\LL_CS_Lösung\obj\Debug\LL_CS_Aufgabe.csprojResolveAssemblyReference.cache

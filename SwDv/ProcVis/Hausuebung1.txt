@@ -1,0 +1,18 @@
+
+  Hausübubg1 zum Kompetenzbereich Prozessvisualisierung
+  ------------------------------------------------------
+
+  In ProcVisdemo eine float-Variable hochzählen
+  fVar = fVar + 0.1;
+
+  Die float-Variable auf Kanal3 zum PC senden
+  ua0.WriteSV(3, fVar);
+
+  SvVisTemplate so erweitern, daß es auch float-Variable
+  anzeigen kann.
+
+  Die genaue Protokolldefinition ist
+  in SvProtocol.h  beim  uC-Code
+
+  
+

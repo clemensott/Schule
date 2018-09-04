@@ -1,0 +1,11 @@
+C:\Users\Clemens\Documents\Visual Studio 2015\Projects\BertlControlLib\obj\Release\BertlControlLib.csprojResolveAssemblyReference.cache
+C:\Users\Clemens\Documents\Visual Studio 2015\Projects\BertlControlLib\bin\Release\BertlControlLib.dll
+C:\Users\Clemens\Documents\Visual Studio 2015\Projects\BertlControlLib\bin\Release\BertlControlLib.pdb
+C:\Users\Clemens\Documents\Visual Studio 2015\Projects\BertlControlLib\bin\Release\SharpDX.XInput.dll
+C:\Users\Clemens\Documents\Visual Studio 2015\Projects\BertlControlLib\bin\Release\X_Y_To_R_L_Lib.dll
+C:\Users\Clemens\Documents\Visual Studio 2015\Projects\BertlControlLib\bin\Release\SharpDX.dll
+C:\Users\Clemens\Documents\Visual Studio 2015\Projects\BertlControlLib\bin\Release\SharpDX.XInput.xml
+C:\Users\Clemens\Documents\Visual Studio 2015\Projects\BertlControlLib\bin\Release\X_Y_To_R_L_Lib.pdb
+C:\Users\Clemens\Documents\Visual Studio 2015\Projects\BertlControlLib\bin\Release\SharpDX.xml
+C:\Users\Clemens\Documents\Visual Studio 2015\Projects\BertlControlLib\obj\Release\BertlControlLib.dll
+C:\Users\Clemens\Documents\Visual Studio 2015\Projects\BertlControlLib\obj\Release\BertlControlLib.pdb

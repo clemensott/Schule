@@ -1,0 +1,5 @@
+C:\Users\Clemens\Documents\Visual Studio 2015\Projects\X_Y_To_R_L_Lib\X_Y_To_R_L_Lib\bin\Release\X_Y_To_R_L_Lib.dll
+C:\Users\Clemens\Documents\Visual Studio 2015\Projects\X_Y_To_R_L_Lib\X_Y_To_R_L_Lib\bin\Release\X_Y_To_R_L_Lib.pdb
+C:\Users\Clemens\Documents\Visual Studio 2015\Projects\X_Y_To_R_L_Lib\X_Y_To_R_L_Lib\obj\Release\X_Y_To_R_L_Lib.csprojResolveAssemblyReference.cache
+C:\Users\Clemens\Documents\Visual Studio 2015\Projects\X_Y_To_R_L_Lib\X_Y_To_R_L_Lib\obj\Release\X_Y_To_R_L_Lib.dll
+C:\Users\Clemens\Documents\Visual Studio 2015\Projects\X_Y_To_R_L_Lib\X_Y_To_R_L_Lib\obj\Release\X_Y_To_R_L_Lib.pdb

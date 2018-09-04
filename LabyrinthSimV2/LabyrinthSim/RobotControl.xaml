@@ -1,0 +1,31 @@
+﻿<UserControl x:Class="LabyrinthSim.RobotControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:LabyrinthSim"
+             xmlns:con="clr-namespace:LabyrinthSim.Converter"
+             mc:Ignorable="d" 
+             d:DesignHeight="300" d:DesignWidth="300">
+
+    <UserControl.Resources>
+        <con:StartStopConverter x:Key="isSearchingCon"/>
+    </UserControl.Resources>
+
+    <StackPanel>
+        <Button Grid.Row="3" Content="{Binding IsSearching,Converter={StaticResource isSearchingCon}}"
+                Margin="5" Width="50" HorizontalAlignment="Left" Click="BtnStartStop_Click"/>
+
+        <TreeViewItem Header="RobotSearchWaiter" IsExpanded="True">
+            <local:WaiterControl DataContext="{Binding RobotSearchWaiter}"/>
+        </TreeViewItem>
+
+        <TreeViewItem Header="MoveWaiter">
+            <local:WaiterControl DataContext="{Binding MoveWaiter}"/>
+        </TreeViewItem>
+
+        <TreeViewItem Header="TargetWaiter">
+            <local:WaiterControl DataContext="{Binding TargetWaiter}"/>
+        </TreeViewItem>
+    </StackPanel>
+</UserControl>

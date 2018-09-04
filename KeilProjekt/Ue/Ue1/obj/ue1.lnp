@@ -1,0 +1,11 @@
+--cpu Cortex-M0
+".\obj\timingdemo.o"
+--nodebug --strict --scatter "../../Lib/mbed/LPC11U24.sct"
+
+../../Lib/mbed/system_LPC11Uxx.o  
+../../Lib/mbed/sys.o  
+../../Lib/mbed/cmsis_nvic.o    
+../../Lib/mbed/startup_LPC11xx.o   
+../../Lib/mbed/core_cm0.o   
+../../Lib/mbed/mbed.ar
+--summary_stderr --info summarysizes -o .\obj\ue1.axf

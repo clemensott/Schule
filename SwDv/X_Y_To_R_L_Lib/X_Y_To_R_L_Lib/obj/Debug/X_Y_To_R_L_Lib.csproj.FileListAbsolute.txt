@@ -1,0 +1,8 @@
+g:\users\clemens\documents\visual studio 2015\Projects\X_Y_To_R_L_Lib\X_Y_To_R_L_Lib\bin\Debug\X_Y_To_R_L_Lib.dll
+g:\users\clemens\documents\visual studio 2015\Projects\X_Y_To_R_L_Lib\X_Y_To_R_L_Lib\bin\Debug\X_Y_To_R_L_Lib.pdb
+g:\users\clemens\documents\visual studio 2015\Projects\X_Y_To_R_L_Lib\X_Y_To_R_L_Lib\obj\Debug\X_Y_To_R_L_Lib.dll
+g:\users\clemens\documents\visual studio 2015\Projects\X_Y_To_R_L_Lib\X_Y_To_R_L_Lib\obj\Debug\X_Y_To_R_L_Lib.pdb
+C:\Users\Clemens\Documents\Visual Studio 2015\Projects\X_Y_To_R_L_Lib\X_Y_To_R_L_Lib\bin\Debug\X_Y_To_R_L_Lib.dll
+C:\Users\Clemens\Documents\Visual Studio 2015\Projects\X_Y_To_R_L_Lib\X_Y_To_R_L_Lib\bin\Debug\X_Y_To_R_L_Lib.pdb
+C:\Users\Clemens\Documents\Visual Studio 2015\Projects\X_Y_To_R_L_Lib\X_Y_To_R_L_Lib\obj\Debug\X_Y_To_R_L_Lib.dll
+C:\Users\Clemens\Documents\Visual Studio 2015\Projects\X_Y_To_R_L_Lib\X_Y_To_R_L_Lib\obj\Debug\X_Y_To_R_L_Lib.pdb

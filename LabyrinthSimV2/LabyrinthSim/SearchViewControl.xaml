@@ -1,0 +1,158 @@
+﻿<UserControl x:Class="LabyrinthSim.SearchViewControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:LabyrinthSim"
+             xmlns:con="clr-namespace:LabyrinthSim.Converter"
+             xmlns:xceed="http://schemas.xceed.com/wpf/xaml/toolkit"
+             mc:Ignorable="d" 
+             d:DesignHeight="300" d:DesignWidth="300">
+
+    <UserControl.Resources>
+        <con:StartStopConverter x:Key="isSearchingCon"/>
+
+        <con:SearchTypeConverter x:Key="searchTypeCon"/>
+        <con:RelationInterpreterTypeConverter x:Key="interpreterTypeCon"/>
+
+        <con:BlockConverter x:Key="startCon"/>
+        <con:TargetConverter x:Key="targetCon"/>
+    </UserControl.Resources>
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <Button Grid.Row="0" Content="{Binding IsSearching,Converter={StaticResource isSearchingCon}}"
+                Margin="5" Width="50" HorizontalAlignment="Left" Click="BtnStartStop_Click"/>
+
+        <TreeViewItem Grid.Row="1" Header="Visibilities" IsExpanded="{Binding IsVisibilitiesExpanded,Mode=TwoWay}">
+            <WrapPanel Orientation="Horizontal">
+                <CheckBox Content="Visiable" IsChecked="{Binding IsVisible,Mode=TwoWay}" Margin="3"/>
+                <CheckBox Content="Dists" IsChecked="{Binding IsDistancesVisable,Mode=TwoWay}" Margin="3"/>
+                <CheckBox Content="Len" IsChecked="{Binding IsLengthVisable,Mode=TwoWay}" Margin="3"/>
+                <CheckBox Content="Counts" IsChecked="{Binding IsCountsVisable,Mode=TwoWay}" Margin="3"/>
+            </WrapPanel>
+        </TreeViewItem>
+
+        <TreeViewItem Grid.Row="2" Header="BlockAddWaiter" IsExpanded="{Binding IsBlockAddExpanded,Mode=TwoWay}">
+            <local:WaiterControl DataContext="{Binding BlockAddWaiter,Mode=TwoWay}"/>
+        </TreeViewItem>
+
+        <TreeViewItem Grid.Row="3" Header="TryAddWaiter" IsExpanded="{Binding IsTryAddExpanded,Mode=TwoWay}">
+            <local:WaiterControl DataContext="{Binding TryAddWaiter,Mode=TwoWay}"/>
+        </TreeViewItem>
+
+        <TreeViewItem Grid.Row="4" Header="SearchType" IsExpanded="{Binding IsSearchTypeExpanded,Mode=TwoWay}">
+            <WrapPanel Orientation="Horizontal">
+                <RadioButton Content="Direct" Margin="3" 
+                             IsChecked="{Binding SearchType,Mode=TwoWay,ConverterParameter=Direct,
+                               Converter={StaticResource searchTypeCon}}"/>
+                <RadioButton Content="Min" Margin="3"
+                             IsChecked="{Binding SearchType,Mode=TwoWay,ConverterParameter=Min,
+                               Converter={StaticResource searchTypeCon}}"/>
+                <RadioButton Content="BruteForce" Margin="3"
+                             IsChecked="{Binding SearchType,Mode=TwoWay,ConverterParameter=BruteForce,
+                               Converter={StaticResource searchTypeCon}}"/>
+            </WrapPanel>
+        </TreeViewItem>
+
+        <TreeViewItem Grid.Row="5" Header="InterpreterType" IsExpanded="{Binding IsInterpreterTypeExpanded,Mode=TwoWay}">
+            <WrapPanel Orientation="Horizontal">
+                <RadioButton Content="Actual" Margin="3"
+                             IsChecked="{Binding InterpreterType,Mode=TwoWay,ConverterParameter=Actual,
+                               Converter={StaticResource interpreterTypeCon}}"/>
+                <RadioButton Content="BestCase" Margin="3"
+                             IsChecked="{Binding InterpreterType,Mode=TwoWay,ConverterParameter=BestCase,
+                               Converter={StaticResource interpreterTypeCon}}"/>
+                <RadioButton Content="WorstCase" Margin="3"
+                             IsChecked="{Binding InterpreterType,Mode=TwoWay,ConverterParameter=WorstCase,
+                               Converter={StaticResource interpreterTypeCon}}"/>
+            </WrapPanel>
+        </TreeViewItem>
+
+        <TreeViewItem Grid.Row="6" Header="Brushes" IsExpanded="{Binding IsBrushesExpanded,Mode=TwoWay}">
+            <WrapPanel Orientation="Vertical">
+                <StackPanel Orientation="Horizontal" Margin="0,5,0,0">
+                    <xceed:ColorPicker Width="60" Height="25" SelectedColor="{Binding PossibleRouteColor}"/>
+                    <TextBlock Text="Possible" Margin="3,0,0,0" VerticalAlignment="Center"/>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal" Margin="0,5,0,0">
+                    <xceed:ColorPicker Width="60" Height="25" SelectedColor="{Binding CurrentRouteColor}"/>
+                    <TextBlock Text="Current" Margin="3,0,0,0" VerticalAlignment="Center"/>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal" Margin="0,5,0,0">
+                    <xceed:ColorPicker Width="60" Height="25" SelectedColor="{Binding NextBlockColor}"/>
+                    <TextBlock Text="Next" Margin="3,0,0,0" VerticalAlignment="Center"/>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal" Margin="0,5,0,0">
+                    <xceed:ColorPicker Width="60" Height="25" SelectedColor="{Binding TextColor}"/>
+                    <TextBlock Text="Text" Margin="3,0,0,0" VerticalAlignment="Center"/>
+                </StackPanel>
+            </WrapPanel>
+        </TreeViewItem>
+
+        <TreeViewItem Grid.Row="7" Header="Start" IsExpanded="{Binding IsStartExpanded,Mode=TwoWay}">
+            <WrapPanel Orientation="Horizontal">
+                <TextBlock Text="X:" VerticalAlignment="Center"/>
+                <TextBox Margin="2" Width="30" VerticalAlignment="Center"
+                         Text="{Binding Start,Mode=TwoWay,ConverterParameter=X,
+                           Converter={StaticResource startCon}}"/>
+
+                <TextBlock Text="Y:" VerticalAlignment="Center" Margin="5,0,0,0"/>
+                <TextBox Margin="2" Width="30" VerticalAlignment="Center"
+                         Text="{Binding Start,Mode=TwoWay,ConverterParameter=Y,
+                           Converter={StaticResource startCon}}"/>
+
+                <xceed:ColorPicker Width="60" Height="25" SelectedColor="{Binding TargetColor}" Margin="10,0,0,0"/>
+            </WrapPanel>
+        </TreeViewItem>
+
+        <TreeViewItem Grid.Row="8" Header="Target" IsExpanded="{Binding IsTargetExpanded,Mode=TwoWay}">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="Auto"/>
+                    <ColumnDefinition Width="15"/>
+                    <ColumnDefinition Width="Auto"/>
+                </Grid.ColumnDefinitions>
+
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                </Grid.RowDefinitions>
+
+                <CheckBox Grid.Row="0" Content="Labyrinth" Margin="0,3,0,0" VerticalAlignment="Center"
+                          IsChecked="{Binding IsLabyrinthTarget,Mode=TwoWay}"/>
+                <RadioButton Grid.Row="1" Content="Single" Margin="0,3,0,0" VerticalAlignment="Center"
+                             IsChecked="{Binding Target,Mode=TwoWay,ConverterParameter=Single,
+                               Converter={StaticResource targetCon}}"/>
+                <RadioButton Grid.Row="2" Content="Quad" Margin="0,3,0,0" VerticalAlignment="Center"
+                             IsChecked="{Binding Target,Mode=TwoWay,ConverterParameter=Quad,
+                               Converter={StaticResource targetCon}}"/>
+
+                <TextBlock Grid.Column="1" Grid.Row="1" Text="X:" VerticalAlignment="Center"/>
+                <TextBlock Grid.Column="1" Grid.Row="2" Text="Y:" VerticalAlignment="Center"/>
+
+                <TextBox Grid.Column="2" Grid.Row="1" Margin="2"
+                         Text="{Binding Target,Mode=TwoWay,UpdateSourceTrigger=PropertyChanged,
+                           Converter={StaticResource targetCon},ConverterParameter=X}"/>
+                <TextBox Grid.Column="2" Grid.Row="2" Margin="2"
+                         Text="{Binding Target,Mode=TwoWay,UpdateSourceTrigger=PropertyChanged,
+                           Converter={StaticResource targetCon},ConverterParameter=Y}"/>
+
+                <xceed:ColorPicker Width="60" Height="25" Grid.Column="2" Margin="2"
+                                   SelectedColor="{Binding TargetColor}"/>
+            </Grid>
+        </TreeViewItem>
+    </Grid>
+</UserControl>

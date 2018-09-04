@@ -1,0 +1,174 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ZedHLRel</name>
+    </assembly>
+    <members>
+        <member name="F:ZedHL.SliderBank.components">
+            <summary> 
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:ZedHL.SliderBank.Dispose(System.Boolean)">
+            <summary> 
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:ZedHL.SliderBank.InitializeComponent">
+            <summary> 
+            Required method for Designer support - do not modify 
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="M:ZedHL.VertBarWin.RefreshCurves">
+            <summary>Neuzeichnen und AxisChange auslösen</summary>
+        </member>
+        <member name="M:ZedHL.VertBarWin.InvalidateGraph">
+            <summary>Nur Neuzeichnen</summary>
+        </member>
+        <member name="M:ZedHL.VertBarWin.AxisChange">
+            <summary>Nur AxisChange auslösen</summary>
+        </member>
+        <member name="F:ZedHL.VertBarWin.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:ZedHL.VertBarWin.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:ZedHL.VertBarWin.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:ZedHL.OnlineCurveWin.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:ZedHL.OnlineCurveWin.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:ZedHL.OnlineCurveWin.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:ZedHL.OnlineCurveControl.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:ZedHL.OnlineCurveControl.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:ZedHL.OnlineCurveControl.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="M:ZedHL.OnlineCurveControl.SetCurve(System.Int32,System.String,System.Drawing.Color,System.Boolean)">
+            <summary>Use RollingPointPairList</summary>
+        </member>
+        <member name="M:ZedHL.OnlineCurveControl.SetCurve2(System.Int32,System.String,System.Drawing.Color,System.Boolean,System.Double)">
+            <summary>Use GraphRingBuffer</summary>
+        </member>
+        <member name="M:ZedHL.OnlineCurveControl.SetCurve3(System.Int32,System.String,System.Drawing.Color,System.Boolean,System.Double)">
+            <summary>Use I16RingBuffer</summary>
+        </member>
+        <member name="M:ZedHL.OnlineCurveControl.AddPoint(System.Int32,System.Double,System.Double)">
+            <summary>Neuen Datenpunkt in die RollingPointPairList</summary>
+        </member>
+        <member name="M:ZedHL.OnlineCurveControl.AddPoint(System.Int32,System.Double)">
+            <summary>Neuen Datenpunkt in den GraphRingBuffer</summary>
+        </member>
+        <member name="M:ZedHL.OnlineCurveControl.RefreshCurves">
+            <summary>Neuzeichnen und AxisChange auslösen</summary>
+        </member>
+        <member name="M:ZedHL.OnlineCurveControl.InvalidateGraph">
+            <summary>Nur Neuzeichnen</summary>
+        </member>
+        <member name="M:ZedHL.OnlineCurveControl.DoAxisChange">
+            <summary>Nur AxisChange auslösen</summary>
+        </member>
+        <member name="F:ZedHL.OnlineCurveWin2.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:ZedHL.OnlineCurveWin2.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:ZedHL.OnlineCurveWin2.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="M:ZedHL.OnlineCurveWin2.SetCurve(System.Int32,System.String,System.Drawing.Color,System.Boolean)">
+            <summary>Use RollingPointPairList</summary>
+        </member>
+        <member name="M:ZedHL.OnlineCurveWin2.SetCurve2(System.Int32,System.String,System.Drawing.Color,System.Boolean,System.Double)">
+            <summary>Use GraphRingBuffer</summary>
+        </member>
+        <member name="M:ZedHL.OnlineCurveWin2.AddPoint(System.Int32,System.Double,System.Double)">
+            <summary>Neuen Datenpunkt in die RollingPointPairList</summary>
+        </member>
+        <member name="M:ZedHL.OnlineCurveWin2.AddPoint(System.Int32,System.Double)">
+            <summary>Neuen Datenpunkt in den GraphRingBuffer</summary>
+        </member>
+        <member name="M:ZedHL.OnlineCurveWin2.RefreshCurves">
+            <summary>Neuzeichnen und AxisChange auslösen</summary>
+        </member>
+        <member name="M:ZedHL.OnlineCurveWin2.InvalidateGraph">
+            <summary>Nur Neuzeichnen</summary>
+        </member>
+        <member name="M:ZedHL.OnlineCurveWin2.AxisChange">
+            <summary>Nur AxisChange auslösen</summary>
+        </member>
+        <member name="T:ZedHL.IValueSink">
+            <summary>Interface for objects which
+            consume values comming fom a ProtocolHandler</summary>
+        </member>
+        <member name="T:ZedHL.DummyValueSink">
+            <summary>a ValueSink doing nothing</summary>
+        </member>
+        <member name="T:ZedHL.GraphRingBuffer">
+            <summary>GraphRingBuffer</summary>
+        </member>
+        <member name="F:ZedHL.OnlineCurveWin3.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:ZedHL.OnlineCurveWin3.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:ZedHL.OnlineCurveWin3.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+    </members>
+</doc>

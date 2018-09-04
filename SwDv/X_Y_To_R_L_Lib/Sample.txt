@@ -1,0 +1,21 @@
+XYRL[] cons = new XYRL[16];
+
+            cons[0] = XYRL.FromXY(0.001f, 0.001f);
+            cons[1] = XYRL.FromXY(0.001f, 1);
+            cons[2] = XYRL.FromXY(1, 0.001f);
+            cons[3] = XYRL.FromXY(1, 1);
+
+            cons[4] = XYRL.FromXY(0.001f, 0.001f);
+            cons[5] = XYRL.FromXY(0.001f, -1);
+            cons[6] = XYRL.FromXY(-1, 0.001f);
+            cons[7] = XYRL.FromXY(-1, -1);
+
+            cons[8] = XYRL.FromXY(-0.001f, -0.001f);
+            cons[9] = XYRL.FromXY(-0.001f, 1);
+            cons[10] = XYRL.FromXY(1, -0.001f);
+            cons[11] = XYRL.FromXY(1, 1);
+
+            cons[12] = XYRL.FromXY(-0.001f, -0.001f);
+            cons[13] = XYRL.FromXY(-0.001f, -1);
+            cons[14] = XYRL.FromXY(-1, -0.001f);
+            cons[15] = XYRL.FromXY(-1, -1);

@@ -1,0 +1,5 @@
+D:\SCU1213\SwDev5te\DS_CS\LL_CS_Aufgabe\bin\Debug\LL_CS.exe
+D:\SCU1213\SwDev5te\DS_CS\LL_CS_Aufgabe\bin\Debug\LL_CS.pdb
+D:\SCU1213\SwDev5te\DS_CS\LL_CS_Aufgabe\obj\Debug\ResolveAssemblyReference.cache
+D:\SCU1213\SwDev5te\DS_CS\LL_CS_Aufgabe\obj\Debug\LL_CS.exe
+D:\SCU1213\SwDev5te\DS_CS\LL_CS_Aufgabe\obj\Debug\LL_CS.pdb

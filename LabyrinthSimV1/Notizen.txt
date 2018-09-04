@@ -1,0 +1,3 @@
+- Beim Zürück suchen PossibleLength als max 
+- Nächster Block von akuteller Position reicht(vielleicht gibt es nur eine möglichkeit)
+- Nur neu Suchen wo Veränderungen waren

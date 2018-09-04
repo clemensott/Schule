@@ -1,0 +1,5 @@
+D:\CS\TCP\HL_StreamDemos\obj\Debug\HlStreamDemos.exe
+D:\CS\TCP\HL_StreamDemos\obj\Debug\HlStreamDemos.pdb
+D:\CS\TCP\HL_StreamDemos\bin\Debug\HlStreamDemos.exe
+D:\CS\TCP\HL_StreamDemos\bin\Debug\HlStreamDemos.pdb
+D:\CS\TCP\HL_StreamDemos\obj\Debug\ResolveAssemblyReference.cache

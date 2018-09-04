@@ -1,0 +1,5 @@
+bin\Debug\HlStreamDemos.exe
+bin\Debug\HlStreamDemos.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\HlStreamDemos.exe
+obj\Debug\HlStreamDemos.pdb

@@ -1,0 +1,24 @@
+﻿<Window x:Class="MbedBinToBoard.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MbedBinToBoard"
+        mc:Ignorable="d"
+        Title="Mbed Copy" Height="350" Width="525">
+    <StackPanel>
+        <TextBlock Text="Download Folder" Margin="5,5"/>
+        <TextBox Name="tbxDownloadFolderPath" Margin="5,0,5,15" TextChanged="Path_Changed"/>
+
+        <TextBlock Text="Download Folder" Margin="5,5"/>
+        <TextBox Name="tbxMbedBoardPath" Margin="5,0,5,15" TextChanged="Path_Changed"/>
+
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+            <CheckBox Name="cbxChecking" Content="Checking" VerticalAlignment="Center" IsChecked="False"/>
+            <Button Content="Copy" Margin="10" Width="100" Click="Copy_Click"/>
+        </StackPanel>
+        
+        <TextBlock Name="tblAction" Text="None" Margin="5,5,5,0"/>
+        <TextBlock Name="tblTime" Text="Not yet" Margin="5,0"/>
+    </StackPanel>
+</Window>

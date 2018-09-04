@@ -1,0 +1,16 @@
+D:\SCU1213\7ABELI\SvVisKurs\SvVisTemplate\obj\Debug\SvVis1.exe
+D:\SCU1213\7ABELI\SvVisKurs\SvVisTemplate\obj\Debug\SvVis1.pdb
+D:\SCU1213\7ABELI\SvVisKurs\SvVisTemplate\bin\Debug\SvVis1.exe
+D:\SCU1213\7ABELI\SvVisKurs\SvVisTemplate\bin\Debug\SvVis1.pdb
+D:\SCU1213\7ABELI\SvVisKurs\SvVisTemplate\obj\Debug\vis1.Form1.resources
+D:\SCU1213\7ABELI\SvVisKurs\SvVisTemplate\obj\Debug\vis1.Properties.Resources.resources
+D:\SCU1213\7ABELI\SvVisKurs\SvVisTemplate\obj\Debug\SvVis1.csproj.GenerateResource.Cache
+D:\SCU1213\7ABELI\SvVisKurs\SvVisTemplate\obj\Debug\SvVis1.csprojResolveAssemblyReference.cache
+D:\SCU1516\FSST_5te\SvVisTemplate\obj\Debug\SvVis1.exe
+D:\SCU1516\FSST_5te\SvVisTemplate\obj\Debug\SvVis1.pdb
+D:\SCU1516\FSST_5te\SvVisTemplate\bin\Debug\SvVis1.exe
+D:\SCU1516\FSST_5te\SvVisTemplate\bin\Debug\SvVis1.pdb
+D:\SCU1516\FSST_5te\SvVisTemplate\obj\Debug\SvVis1.csprojResolveAssemblyReference.cache
+D:\SCU1516\FSST_5te\SvVisTemplate\obj\Debug\vis1.Form1.resources
+D:\SCU1516\FSST_5te\SvVisTemplate\obj\Debug\vis1.Properties.Resources.resources
+D:\SCU1516\FSST_5te\SvVisTemplate\obj\Debug\SvVis1.csproj.GenerateResource.Cache

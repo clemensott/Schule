@@ -1,0 +1,8 @@
+bin\Debug\SvVis1.exe
+bin\Debug\SvVis1.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\vis1.Form1.resources
+obj\Debug\vis1.Properties.Resources.resources
+obj\Debug\SvVis1.csproj.GenerateResource.Cache
+obj\Debug\SvVis1.exe
+obj\Debug\SvVis1.pdb

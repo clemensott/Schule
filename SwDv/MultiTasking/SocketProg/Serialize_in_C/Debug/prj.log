@@ -1,0 +1,28 @@
+﻿Der Buildvorgang wurde am 05.03.2015 10:06:53 gestartet.
+     1>Projekt "D:\SCU1415\SwDev5te\MultiTasking\VBR\Serialize_in_C\prj.vcxproj" auf Knoten "2", build Ziel(e).
+     1>InitializeBuildStatus:
+         ".\Debug\prj.unsuccessfulbuild" wird erstellt, da "AlwaysCreate" angegeben wurde.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _VC80_UPGRADE=0x0600 /D _MBCS /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo".\Debug/" /Fd".\Debug/vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Serialize_in_C.cpp
+         Serialize_in_C.cpp
+     1>d:\scu1415\swdev5te\multitasking\vbr\serialize_in_c\serialize_in_c.cpp(60): warning C4309: 'Argument': Verkürzung eines konstanten Wertes
+       ManifestResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo".\Debug\prj.exe.embed.manifest.res" .\Debug\prj_manifest.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:".\Debug/prj.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:".\Debug\prj.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:".\Debug/prj.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\Debug\prj.lib" /MACHINE:X86 .\Debug\prj.exe.embed.manifest.res
+         .\Debug/Serialize_in_C.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:".\Debug\prj.exe.embed.manifest" /manifest .\Debug\prj.exe.intermediate.manifest
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo".\Debug\prj.exe.embed.manifest.res" .\Debug\prj_manifest.rc 
+       LinkEmbedManifest:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:".\Debug/prj.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:".\Debug\prj.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:".\Debug/prj.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\Debug\prj.lib" /MACHINE:X86 .\Debug\prj.exe.embed.manifest.res
+         .\Debug/Serialize_in_C.obj
+         prj.vcxproj -> D:\SCU1415\SwDev5te\MultiTasking\VBR\Serialize_in_C\.\Debug\prj.exe
+       FinalizeBuildStatus:
+         Die Datei ".\Debug\prj.unsuccessfulbuild" wird gelöscht.
+         Aktualisieren des Timestamps von ".\Debug\prj.lastbuildstate".
+     1>Die Erstellung des Projekts "D:\SCU1415\SwDev5te\MultiTasking\VBR\Serialize_in_C\prj.vcxproj" ist abgeschlossen, build Ziel(e).
+
+Das Erstellen war erfolgreich.
+
+Verstrichene Zeit 00:00:09.26

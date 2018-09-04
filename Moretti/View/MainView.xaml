@@ -1,0 +1,57 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:i="http://schemas.microsoft.com/expression/2010/interactivity"
+        xmlns:ei = "http://schemas.microsoft.com/expression/2010/interactions" 
+        xmlns:local="clr-namespace:ObjectOrientedDrawingOfObjects"
+        xmlns:ViewModels="clr-namespace:ObjectOrientedDrawingOfObjects.ViewModel"
+        xmlns:Model="clr-namespace:ObjectOrientedDrawingOfObjects.Model"
+        x:Class="ObjectOrientedDrawingOfObjects.MainView"
+        mc:Ignorable="d"
+        Title="Draw" Height="350" Width="525" MinHeight="350" MinWidth="525" Icon="/ObjectOrientedDrawingOfObjects;component/Resources/Draw.ico">
+    <Window.DataContext>
+        <ViewModels:MainViewModel/>
+    </Window.DataContext>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition />
+        </Grid.RowDefinitions>
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Stretch">
+            <ComboBox ItemsSource="{Binding ObjectList}" SelectedItem="{Binding SelectedComboboxItem, Mode=TwoWay}" MinWidth="150" VerticalAlignment="Stretch"/>
+            <Slider Name="slider" Minimum="10" SmallChange="1" IsSnapToTickEnabled="True" TickFrequency="1" LargeChange="5" Maximum="500" MinWidth="100" Margin="10,0" VerticalAlignment="Stretch" Value="{Binding SliderValue, Mode=TwoWay}"/>
+            <Label Content="Size:"/>
+            <Label Content="{Binding ElementName=slider, Path=Value}" Margin="10,0"/>
+            <!-- Colorpicker is needed only for to change the color. If simply removed color will always be black. remove from here... -->
+            <!--<syncfusion:ColorPicker IsColorPaletteVisible="True" VisualizationStyle="RGB" Color="{Binding SelectedColor, Mode=TwoWay}" MinWidth="100"/>-->
+            <!-- remove until here if syncfusion isn`t installed -->
+            <Button Content="Clear" Margin="10,0" MinWidth="50">
+                <i:Interaction.Triggers>
+                    <i:EventTrigger EventName="Click">
+                        <ei:CallMethodAction MethodName="ClearCanvasElements" TargetObject="{Binding}"/>
+                    </i:EventTrigger>
+                </i:Interaction.Triggers>
+            </Button>
+        </StackPanel>
+        <Grid Grid.Row="1">
+            <ItemsControl ItemsSource="{Binding CanvasElements}">
+                <ItemsControl.ItemsPanel>
+                    <ItemsPanelTemplate>
+                        <Canvas Grid.Row="1" Background="White">
+                            <i:Interaction.Triggers>
+                                <i:EventTrigger EventName="MouseDown">
+                                    <ei:CallMethodAction MethodName="AddElement" TargetObject="{Binding}"/>
+                                </i:EventTrigger>
+                                <i:EventTrigger EventName="MouseMove">
+                                    <ei:CallMethodAction MethodName="CanvasMouseMove" TargetObject="{Binding}"/>
+                                </i:EventTrigger>
+                            </i:Interaction.Triggers>
+                        </Canvas>
+                    </ItemsPanelTemplate>
+                </ItemsControl.ItemsPanel>
+            </ItemsControl>
+        </Grid>
+    </Grid>
+</Window>

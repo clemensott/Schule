@@ -1,0 +1,98 @@
+
+
+ 1. Prinzipielle Funktionsweise so wie
+    in  LcdEmulTest.cpp  gezeigt
+
+ 2. Die Uhr zeigt nur hh:mm  an
+ 
+ 3. Die mm werden bei  "Clock running"  mit 
+    10Hz hochgezählt
+
+ 4. Eine hh hat 30 Minuten
+    Nach 24h springen die hh wieder auf 0
+
+ 5. Funktion der Buttons:
+    sw4 schaltet die Anzeigemoden weiter
+    Anzeigemoden:
+      Edit hh;  Edit mm;  Clock running
+
+ 6. sw3 (hh:mm) hochzählen
+    sw1 (hh:mm) runterzählen
+
+ 7. sw3, sw1 (hochzählen, runterzählen)
+    sollen auch einen ContinousPress-Mode haben
+    d.h. wenn man z.B. sw3 gedrückt hält wird
+    automatisch hochgezählt so wie beim
+    ContinousPress des OneButtonEditors
+
+ 8. Der Code darf !!kein!! wait() enthalten
+    außer eventuell zur Erkennung von ContinousPress
+
+ 9. Es sollen 3 Buttons verwendet werden
+    sw4, sw3, sw1
+
+ !!Vorsicht!!
+ Das kein Code entsteht welcher ungebremst
+ printf() zum PC sendet.
+ printf() nur beim State-Wechsel und mit Timer in ClockRunning
+
+ Abgabe:
+ --------
+   Herzeigen in der FSST-Stunde 30sec pro herzeigen
+   - Statediagramm mit Zusatztex
+   - 1x cpp-File mit der Lösung
+   - 1 Woche vor Notenschluss
+
+
+
+
+
+
+
+
+    
+    
+
+ 
+
+
+ 
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+
+
+
+    
+
+   
+      
+   
+

@@ -1,0 +1,6 @@
+﻿  MPointerdemo1.cpp
+d:\projects\schule\swdv\datastruct\pointer\mpointerdemo1.cpp(43): warning C4305: "=": Verkürzung von "double" in "float"
+d:\projects\schule\swdv\datastruct\pointer\mpointerdemo1.cpp(53): warning C4305: "=": Verkürzung von "double" in "float"
+d:\projects\schule\swdv\datastruct\pointer\mpointerdemo1.cpp(61): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+MPointerdemo1.obj : warning LNK4075: /EDITANDCONTINUE wird aufgrund der Angabe von /SAFESEH ignoriert.
+  prj.vcxproj -> D:\Projects\Schule\SwDv\DataStruct\Pointer\Debug\prj.exe

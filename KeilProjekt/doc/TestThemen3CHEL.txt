@@ -1,0 +1,42 @@
+
+
+  1. Bitverknüpfungen in C:
+  -------------------------
+
+   - Aufgabe zum Shift Befehl  a = a << 1;
+
+   - Aufgaben zum  Bitwise or und and  |   &
+
+   - gezieltes!! abfragen ob ein Bit in einem Byte gesetzt ist
+
+   - Mit dem Bitwise-OR Bits in einem Byte setzen 
+     ohne die schon gesetzen Bits zu zerstören
+
+   - Btn und LED Beispiele
+     wenn sw1 und sw2 gedrückt sind sollen LED3 u. LED4 leuchten
+
+
+  2. Lauflichtbeispiele:
+  -----------------------
+    - Mit for-schleife und wait()
+    - 1 2 3er Lauflicht links rechts siehe uC_Kurs_Mts_HL_1.pd
+ 
+   - Schreiben Sie für einen 12-Bit LED-Bar ein 4er Lauflicht nach links
+
+   - Lauflichter die mit einem Button weitergeschaltet werden
+     Siehe  BtnRunLight1.cpp   und  ButtonEventDemo.cpp
+
+
+  3. Theorie und Verwendung von Timern
+  -------------------------------------
+     uC_Kurs_Mts_HL_2.pdf   TimingDemo.cpp
+     Wie kann man ohne wait() verschieden schnell blinken
+
+
+     
+   
+       
+
+
+   
+

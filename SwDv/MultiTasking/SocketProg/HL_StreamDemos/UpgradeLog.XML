@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="HlStreamDemos">
+</Property><Property Name="Projektmappendatei" Value="D:\SCU1415\SwDev5te\MultiTasking\VBR\HL_StreamDemos\HlStreamDemos.sln">
+</Property><Property Name="Date" Value="Donnerstag, 5. März 2015">
+</Property><Property Name="Time" Value="10:07">
+</Property></Properties><Event ErrorLevel="1" Project="HlStreamDemos" Source="HlStreamDemos.csproj" Description="Das Projekt ist für .NET Framework 2.0 oder 3.0 konzipiert. Wenn für das Projekt Assemblys verwendet werden, die eine neuere Version von .NET Framework erfordern, kann das Projekt nicht erstellt werden. Die .NET Framework-Version kann durch Klicken auf &quot;Eigenschaften&quot; im Projektmenü und durch anschließendes Auswählen einer neuen Version im Dropdownfeld &quot;.NET Framework&quot; geändert werden. (In Visual Basic befindet sich dieses Feld auf der Registerkarte &quot;Kompilieren&quot;. Klicken Sie auf die Schaltfläche &quot;Erweiterte Compileroptionen...&quot;.)">
+</Event><Event ErrorLevel="0" Project="HlStreamDemos" Source="HlStreamDemos.csproj" Description="Projekt erfolgreich konvertiert">
+</Event><Event ErrorLevel="3" Project="HlStreamDemos" Source="HlStreamDemos.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="HlStreamDemos.sln" Description="Die Projektmappe wurde erfolgreich konvertiert.">
+</Event><Event ErrorLevel="3" Project="" Source="HlStreamDemos.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="HlStreamDemos" Source="HlStreamDemos.csproj" Description="Überprüfung abgeschlossen: Upgrade der Projektdateien nicht erforderlich.">
+</Event></UpgradeLog>

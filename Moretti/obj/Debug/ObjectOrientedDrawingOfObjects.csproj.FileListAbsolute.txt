@@ -1,0 +1,71 @@
+C:\Users\Fabio\Documents\Visual Studio 2017\Projects\ObjectOrientedDrawingOfObjects\obj\Debug\App.g.cs
+C:\Users\Fabio\Documents\Visual Studio 2017\Projects\ObjectOrientedDrawingOfObjects\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Fabio\Documents\Visual Studio 2017\Projects\ObjectOrientedDrawingOfObjects\obj\Debug\ObjectOrientedDrawingOfObjects_MarkupCompile.cache
+C:\Users\Fabio\Documents\Visual Studio 2017\Projects\ObjectOrientedDrawingOfObjects\obj\Debug\ObjectOrientedDrawingOfObjects_MarkupCompile.lref
+C:\Users\Fabio\Documents\Visual Studio 2017\Projects\ObjectOrientedDrawingOfObjects\obj\Debug\ObjectOrientedDrawingOfObjects.exe
+C:\Users\Fabio\Documents\Visual Studio 2017\Projects\ObjectOrientedDrawingOfObjects\obj\Debug\ObjectOrientedDrawingOfObjects.pdb
+C:\Users\Fabio\Documents\Visual Studio 2017\Projects\ObjectOrientedDrawingOfObjects\bin\Debug\ObjectOrientedDrawingOfObjects.exe.config
+C:\Users\Fabio\Documents\Visual Studio 2017\Projects\ObjectOrientedDrawingOfObjects\bin\Debug\ObjectOrientedDrawingOfObjects.exe
+C:\Users\Fabio\Documents\Visual Studio 2017\Projects\ObjectOrientedDrawingOfObjects\bin\Debug\ObjectOrientedDrawingOfObjects.pdb
+C:\Users\Fabio\Documents\Visual Studio 2017\Projects\ObjectOrientedDrawingOfObjects\obj\Debug\ObjectOrientedDrawingOfObjects.g.resources
+C:\Users\Fabio\Documents\Visual Studio 2017\Projects\ObjectOrientedDrawingOfObjects\obj\Debug\ObjectOrientedDrawingOfObjects.Properties.Resources.resources
+C:\Users\Fabio\Documents\Visual Studio 2017\Projects\ObjectOrientedDrawingOfObjects\obj\Debug\ObjectOrientedDrawingOfObjects.csproj.GenerateResource.Cache
+C:\Users\Fabio\Documents\Visual Studio 2017\Projects\ObjectOrientedDrawingOfObjects\obj\Debug\ObjectOrientedDrawingOfObjects.csproj.CoreCompileInputs.cache
+C:\Users\Fabio\Documents\Visual Studio 2017\Projects\ObjectOrientedDrawingOfObjects\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\Fabio\Documents\Visual Studio 2017\Projects\ObjectOrientedDrawingOfObjects\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Fabio\Documents\Visual Studio 2017\Projects\ObjectOrientedDrawingOfObjects\bin\Debug\Syncfusion.Shared.WPF.dll
+C:\Users\Fabio\Documents\Visual Studio 2017\Projects\ObjectOrientedDrawingOfObjects\bin\Debug\Syncfusion.Shared.WPF.xml
+C:\Users\Fabio\Documents\Visual Studio 2017\Projects\ObjectOrientedDrawingOfObjects\obj\Debug\ObjectOrientedDrawingOfObjects.csprojResolveAssemblyReference.cache
+C:\Users\Fabio\Documents\Visual Studio 2017\Projects\ObjectOrientedDrawingOfObjects\obj\Debug\View\MainView.g.cs
+C:\Users\Fabio\Documents\Visual Studio 2017\Projects\ObjectOrientedDrawingOfObjects\obj\Debug\View\MainView.baml
+\\nc-ncc-fs01\sdat$\TI\4BHEL\manuel.griessnig\Downloads\Moretti_ObjectOrientedDrawing\Moretti_ObjectOrientedDrawing\ObjectOrientedDrawingOfObjects\bin\Debug\ObjectOrientedDrawingOfObjects.exe.config
+\\nc-ncc-fs01\sdat$\TI\4BHEL\manuel.griessnig\Downloads\Moretti_ObjectOrientedDrawing\Moretti_ObjectOrientedDrawing\ObjectOrientedDrawingOfObjects\obj\Debug\ObjectOrientedDrawingOfObjects.exe
+\\nc-ncc-fs01\sdat$\TI\4BHEL\manuel.griessnig\Downloads\Moretti_ObjectOrientedDrawing\Moretti_ObjectOrientedDrawing\ObjectOrientedDrawingOfObjects\obj\Debug\ObjectOrientedDrawingOfObjects.pdb
+\\nc-ncc-fs01\sdat$\TI\4BHEL\manuel.griessnig\Downloads\Moretti_ObjectOrientedDrawing\Moretti_ObjectOrientedDrawing\ObjectOrientedDrawingOfObjects\obj\Debug\ObjectOrientedDrawingOfObjects.csprojResolveAssemblyReference.cache
+\\nc-ncc-fs01\sdat$\TI\4BHEL\manuel.griessnig\Downloads\Moretti_ObjectOrientedDrawing\Moretti_ObjectOrientedDrawing\ObjectOrientedDrawingOfObjects\obj\Debug\App.g.cs
+\\nc-ncc-fs01\sdat$\TI\4BHEL\manuel.griessnig\Downloads\Moretti_ObjectOrientedDrawing\Moretti_ObjectOrientedDrawing\ObjectOrientedDrawingOfObjects\obj\Debug\ObjectOrientedDrawingOfObjects_MarkupCompile.cache
+\\nc-ncc-fs01\sdat$\TI\4BHEL\manuel.griessnig\Downloads\Moretti_ObjectOrientedDrawing\Moretti_ObjectOrientedDrawing\ObjectOrientedDrawingOfObjects\obj\Debug\View\MainView.g.cs
+\\nc-ncc-fs01\sdat$\TI\4BHEL\manuel.griessnig\Downloads\Moretti_ObjectOrientedDrawing\Moretti_ObjectOrientedDrawing\ObjectOrientedDrawingOfObjects\obj\Debug\GeneratedInternalTypeHelper.g.cs
+\\nc-ncc-fs01\sdat$\TI\4BHEL\manuel.griessnig\Downloads\Moretti_ObjectOrientedDrawing\Moretti_ObjectOrientedDrawing\ObjectOrientedDrawingOfObjects\obj\Debug\ObjectOrientedDrawingOfObjects_MarkupCompile.lref
+\\nc-ncc-fs01\sdat$\TI\4BHEL\manuel.griessnig\Downloads\Moretti_ObjectOrientedDrawing\Moretti_ObjectOrientedDrawing\ObjectOrientedDrawingOfObjects\bin\Debug\ObjectOrientedDrawingOfObjects.exe
+\\nc-ncc-fs01\sdat$\TI\4BHEL\manuel.griessnig\Downloads\Moretti_ObjectOrientedDrawing\Moretti_ObjectOrientedDrawing\ObjectOrientedDrawingOfObjects\bin\Debug\ObjectOrientedDrawingOfObjects.pdb
+\\nc-ncc-fs01\sdat$\TI\4BHEL\manuel.griessnig\Downloads\Moretti_ObjectOrientedDrawing\Moretti_ObjectOrientedDrawing\ObjectOrientedDrawingOfObjects\bin\Debug\Microsoft.Expression.Interactions.dll
+\\nc-ncc-fs01\sdat$\TI\4BHEL\manuel.griessnig\Downloads\Moretti_ObjectOrientedDrawing\Moretti_ObjectOrientedDrawing\ObjectOrientedDrawingOfObjects\bin\Debug\System.Windows.Interactivity.dll
+\\nc-ncc-fs01\sdat$\TI\4BHEL\manuel.griessnig\Downloads\Moretti_ObjectOrientedDrawing\Moretti_ObjectOrientedDrawing\ObjectOrientedDrawingOfObjects\obj\Debug\View\MainView.baml
+\\nc-ncc-fs01\sdat$\TI\4BHEL\manuel.griessnig\Downloads\Moretti_ObjectOrientedDrawing\Moretti_ObjectOrientedDrawing\ObjectOrientedDrawingOfObjects\obj\Debug\ObjectOrientedDrawingOfObjects.g.resources
+\\nc-ncc-fs01\sdat$\TI\4BHEL\manuel.griessnig\Downloads\Moretti_ObjectOrientedDrawing\Moretti_ObjectOrientedDrawing\ObjectOrientedDrawingOfObjects\obj\Debug\ObjectOrientedDrawingOfObjects.Properties.Resources.resources
+\\nc-ncc-fs01\sdat$\TI\4BHEL\manuel.griessnig\Downloads\Moretti_ObjectOrientedDrawing\Moretti_ObjectOrientedDrawing\ObjectOrientedDrawingOfObjects\obj\Debug\ObjectOrientedDrawingOfObjects.csproj.GenerateResource.Cache
+D:\SCU1718\SwDev4te\Moretti_ObjectOrientedDrawing_VS2013\Moretti_ObjectOrientedDrawing\Moretti_ObjectOrientedDrawing\ObjectOrientedDrawingOfObjects\bin\Debug\ObjectOrientedDrawingOfObjects.exe.config
+D:\SCU1718\SwDev4te\Moretti_ObjectOrientedDrawing_VS2013\Moretti_ObjectOrientedDrawing\Moretti_ObjectOrientedDrawing\ObjectOrientedDrawingOfObjects\obj\Debug\ObjectOrientedDrawingOfObjects.exe
+D:\SCU1718\SwDev4te\Moretti_ObjectOrientedDrawing_VS2013\Moretti_ObjectOrientedDrawing\Moretti_ObjectOrientedDrawing\ObjectOrientedDrawingOfObjects\obj\Debug\ObjectOrientedDrawingOfObjects.pdb
+D:\SCU1718\SwDev4te\Moretti_ObjectOrientedDrawing_VS2013\Moretti_ObjectOrientedDrawing\Moretti_ObjectOrientedDrawing\ObjectOrientedDrawingOfObjects\bin\Debug\ObjectOrientedDrawingOfObjects.exe
+D:\SCU1718\SwDev4te\Moretti_ObjectOrientedDrawing_VS2013\Moretti_ObjectOrientedDrawing\Moretti_ObjectOrientedDrawing\ObjectOrientedDrawingOfObjects\bin\Debug\ObjectOrientedDrawingOfObjects.pdb
+D:\SCU1718\SwDev4te\Moretti_ObjectOrientedDrawing_VS2013\Moretti_ObjectOrientedDrawing\Moretti_ObjectOrientedDrawing\ObjectOrientedDrawingOfObjects\bin\Debug\Microsoft.Expression.Interactions.dll
+D:\SCU1718\SwDev4te\Moretti_ObjectOrientedDrawing_VS2013\Moretti_ObjectOrientedDrawing\Moretti_ObjectOrientedDrawing\ObjectOrientedDrawingOfObjects\bin\Debug\System.Windows.Interactivity.dll
+D:\SCU1718\SwDev4te\Moretti_ObjectOrientedDrawing_VS2013\Moretti_ObjectOrientedDrawing\Moretti_ObjectOrientedDrawing\ObjectOrientedDrawingOfObjects\obj\Debug\ObjectOrientedDrawingOfObjects.csprojResolveAssemblyReference.cache
+D:\SCU1718\SwDev4te\Moretti_ObjectOrientedDrawing_VS2013\Moretti_ObjectOrientedDrawing\Moretti_ObjectOrientedDrawing\ObjectOrientedDrawingOfObjects\obj\Debug\View\MainView.g.cs
+D:\SCU1718\SwDev4te\Moretti_ObjectOrientedDrawing_VS2013\Moretti_ObjectOrientedDrawing\Moretti_ObjectOrientedDrawing\ObjectOrientedDrawingOfObjects\obj\Debug\App.g.cs
+D:\SCU1718\SwDev4te\Moretti_ObjectOrientedDrawing_VS2013\Moretti_ObjectOrientedDrawing\Moretti_ObjectOrientedDrawing\ObjectOrientedDrawingOfObjects\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\SCU1718\SwDev4te\Moretti_ObjectOrientedDrawing_VS2013\Moretti_ObjectOrientedDrawing\Moretti_ObjectOrientedDrawing\ObjectOrientedDrawingOfObjects\obj\Debug\ObjectOrientedDrawingOfObjects_MarkupCompile.cache
+D:\SCU1718\SwDev4te\Moretti_ObjectOrientedDrawing_VS2013\Moretti_ObjectOrientedDrawing\Moretti_ObjectOrientedDrawing\ObjectOrientedDrawingOfObjects\obj\Debug\ObjectOrientedDrawingOfObjects_MarkupCompile.lref
+D:\SCU1718\SwDev4te\Moretti_ObjectOrientedDrawing_VS2013\Moretti_ObjectOrientedDrawing\Moretti_ObjectOrientedDrawing\ObjectOrientedDrawingOfObjects\obj\Debug\View\MainView.baml
+D:\SCU1718\SwDev4te\Moretti_ObjectOrientedDrawing_VS2013\Moretti_ObjectOrientedDrawing\Moretti_ObjectOrientedDrawing\ObjectOrientedDrawingOfObjects\obj\Debug\ObjectOrientedDrawingOfObjects.g.resources
+D:\SCU1718\SwDev4te\Moretti_ObjectOrientedDrawing_VS2013\Moretti_ObjectOrientedDrawing\Moretti_ObjectOrientedDrawing\ObjectOrientedDrawingOfObjects\obj\Debug\ObjectOrientedDrawingOfObjects.Properties.Resources.resources
+D:\SCU1718\SwDev4te\Moretti_ObjectOrientedDrawing_VS2013\Moretti_ObjectOrientedDrawing\Moretti_ObjectOrientedDrawing\ObjectOrientedDrawingOfObjects\obj\Debug\ObjectOrientedDrawingOfObjects.csproj.GenerateResource.Cache
+D:\SCU1718\SwDev4te\Moretti\bin\Debug\ObjectOrientedDrawingOfObjects.exe.config
+D:\SCU1718\SwDev4te\Moretti\obj\Debug\ObjectOrientedDrawingOfObjects.exe
+D:\SCU1718\SwDev4te\Moretti\obj\Debug\ObjectOrientedDrawingOfObjects.pdb
+D:\SCU1718\SwDev4te\Moretti\bin\Debug\ObjectOrientedDrawingOfObjects.exe
+D:\SCU1718\SwDev4te\Moretti\bin\Debug\ObjectOrientedDrawingOfObjects.pdb
+D:\SCU1718\SwDev4te\Moretti\bin\Debug\Microsoft.Expression.Interactions.dll
+D:\SCU1718\SwDev4te\Moretti\bin\Debug\System.Windows.Interactivity.dll
+D:\SCU1718\SwDev4te\Moretti\obj\Debug\ObjectOrientedDrawingOfObjects.csprojResolveAssemblyReference.cache
+D:\SCU1718\SwDev4te\Moretti\obj\Debug\View\MainView.g.cs
+D:\SCU1718\SwDev4te\Moretti\obj\Debug\App.g.cs
+D:\SCU1718\SwDev4te\Moretti\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\SCU1718\SwDev4te\Moretti\obj\Debug\ObjectOrientedDrawingOfObjects_MarkupCompile.cache
+D:\SCU1718\SwDev4te\Moretti\obj\Debug\ObjectOrientedDrawingOfObjects_MarkupCompile.lref
+D:\SCU1718\SwDev4te\Moretti\obj\Debug\View\MainView.baml
+D:\SCU1718\SwDev4te\Moretti\obj\Debug\ObjectOrientedDrawingOfObjects.g.resources
+D:\SCU1718\SwDev4te\Moretti\obj\Debug\ObjectOrientedDrawingOfObjects.Properties.Resources.resources
+D:\SCU1718\SwDev4te\Moretti\obj\Debug\ObjectOrientedDrawingOfObjects.csproj.GenerateResource.Cache
