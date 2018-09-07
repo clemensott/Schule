@@ -1,5 +1,0 @@
-obj\Debug\ResolveAssemblyReference.cache
-bin\Debug\MatrixRef.exe
-bin\Debug\MatrixRef.pdb
-obj\Debug\MatrixRef.exe
-obj\Debug\MatrixRef.pdb

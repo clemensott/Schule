@@ -1,5 +1,0 @@
-bin\Debug\prj.exe
-bin\Debug\prj.pdb
-obj\Debug\ResolveAssemblyReference.cache
-obj\Debug\prj.exe
-obj\Debug\prj.pdb

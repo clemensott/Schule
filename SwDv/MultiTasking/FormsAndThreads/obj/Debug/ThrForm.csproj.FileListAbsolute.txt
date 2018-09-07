@@ -1,7 +1,0 @@
-D:\SCU1415\SwDev5te\MultiTasking\FormsAndThreads\obj\Debug\ThrForm.exe
-D:\SCU1415\SwDev5te\MultiTasking\FormsAndThreads\obj\Debug\ThrForm.pdb
-D:\SCU1415\SwDev5te\MultiTasking\FormsAndThreads\bin\Debug\ThrForm.exe
-D:\SCU1415\SwDev5te\MultiTasking\FormsAndThreads\bin\Debug\ThrForm.pdb
-D:\SCU1415\SwDev5te\MultiTasking\FormsAndThreads\obj\Debug\ThrForm.Form1.resources
-D:\SCU1415\SwDev5te\MultiTasking\FormsAndThreads\obj\Debug\ThrForm.Properties.Resources.resources
-D:\SCU1415\SwDev5te\MultiTasking\FormsAndThreads\obj\Debug\ThrForm.csproj.GenerateResource.Cache

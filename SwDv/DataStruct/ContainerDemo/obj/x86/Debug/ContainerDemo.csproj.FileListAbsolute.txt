@@ -1,5 +1,0 @@
-D:\SCU1516\SwDev5te\ContainerDemo\bin\Debug\ContainerDemo.exe
-D:\SCU1516\SwDev5te\ContainerDemo\bin\Debug\ContainerDemo.pdb
-D:\SCU1516\SwDev5te\ContainerDemo\obj\x86\Debug\ContainerDemo.exe
-D:\SCU1516\SwDev5te\ContainerDemo\obj\x86\Debug\ContainerDemo.pdb
-D:\SCU1516\SwDev5te\ContainerDemo\obj\x86\Debug\ContainerDemo.csprojResolveAssemblyReference.cache

@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27004.2008
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LabyrinthSim", "LabyrinthSim\LabyrinthSim.csproj", "{7145EBFA-1342-4217-B807-A7D48BDB5CD9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LabyrinthSim", "LabyrinthSim.csproj", "{7145EBFA-1342-4217-B807-A7D48BDB5CD9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

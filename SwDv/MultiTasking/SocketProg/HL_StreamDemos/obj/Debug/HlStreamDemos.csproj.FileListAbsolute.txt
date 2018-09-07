@@ -1,4 +1,0 @@
-D:\SCU1415\SwDev5te\MultiTasking\VBR\HL_StreamDemos\obj\Debug\HlStreamDemos.exe
-D:\SCU1415\SwDev5te\MultiTasking\VBR\HL_StreamDemos\obj\Debug\HlStreamDemos.pdb
-D:\SCU1415\SwDev5te\MultiTasking\VBR\HL_StreamDemos\bin\Debug\HlStreamDemos.exe
-D:\SCU1415\SwDev5te\MultiTasking\VBR\HL_StreamDemos\bin\Debug\HlStreamDemos.pdb

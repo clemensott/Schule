@@ -1,5 +1,0 @@
-bin\Debug\FileStream2.exe
-bin\Debug\FileStream2.pdb
-obj\Debug\ResolveAssemblyReference.cache
-obj\Debug\FileStream2.exe
-obj\Debug\FileStream2.pdb

@@ -1,5 +1,0 @@
-D:\SCU1415\SwDev5te\MultiTasking\SomeTests\bin\Debug\SomeTests.exe
-D:\SCU1415\SwDev5te\MultiTasking\SomeTests\bin\Debug\SomeTests.pdb
-D:\SCU1415\SwDev5te\MultiTasking\SomeTests\obj\x86\Debug\SomeTests.exe
-D:\SCU1415\SwDev5te\MultiTasking\SomeTests\obj\x86\Debug\SomeTests.pdb
-D:\SCU1415\SwDev5te\MultiTasking\SomeTests\obj\x86\Debug\SomeTests.csprojResolveAssemblyReference.cache
